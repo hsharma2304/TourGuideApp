@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="category_kashmir">Jammmu Kashmir india</string>
+    <string name="category_naini">Nainital</string>
+    <string name="category_kerala">Kerala</string>
+    <string name="category_rishikesh">Rishikesh</string>
+    <string name="srinagar"> Srinagar is undoubtedly one of the most beautiful places to visit in Kashmir as well as in India. From boating to trekking, bird watching to water skiing, Srinagar place has it all. </string>
+    <string name="gulmarg">Famously known as the ‘Meadow of Flowers’, Gulmarg is a treat to the eyes with its spread of vibrant flowers against snow capped mountains as backgrounds.</string>
+    <string name="riverrafting">Only few rivers in the world have the mystique of the Ganges, the living mother Goddess of the India. Rafting on its water of wisdom is certainly an unusual experience </string>
+    <string name="gangapuja"> Ganga puja is a religious festival of the northeastern state of Tripura in India. </string>
+    <string name="nainitallake">Paddle with Whynot Adventure through the Tobeatic’s century old legacy of fully guided canoe tripping.</string>
+    <string name="nainapeak">azing PLACE I will visit ever a best beautiful PLACE in my life nainital the best place must visit in monsoon season</string>
+    <string name="munnar"> Munnar is the most popular hill station in South India and the best tourist place in Kerala to visit for 2 days..</string>
+    <string name="alleppey"> Alleppey is well known for the backwater trips on houseboats and always comes on top among the best destinations to visit in Kerala with friends and check out in Kerala, simply because it is a exclusive encounter that you cannot get anywhere else on the globe. </string>
+    <string name="add_srinagar">Srinagar, Jammu Kashmir</string>
+    <string name="add_gulmarg">Gulmarg, Jammu Kashmir</string>
+    <string name="add_rafting">Uttarakhand, Rishikesh</string>
+    <string name="add_gangapuja">Uttarakhnad, Haridwar</string>
+    <string name="add_nainitallake">Nainital, Uttarakhand</string>
+    <string name="add_nainipeak">Ninital, Uttarkhand</string>
+    <string name="add_munnar">Kerala, Munnar</string>
+    <string name="add_alleppey">Kerala, Alleppey</string>
+    <string name="name_srinagar">Srinagar</string>
+    <string name="name_gulmarg">Gulmarg</string>
+    <string name="name_nainitallake">Nainital Lake</string>
+    <string name="name_nainipeak">Naini Peak</string>
+    <string name="name_munnar">Munnar</string>
+    <string name="name_alleppey">Alleppey</string>
+    <string name="name_riverrafting">River Rafting</string>
+    <string name="name_gangapuja">Ganga Puja</string>
+</resources>
